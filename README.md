@@ -9,7 +9,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats:
-![Mehdi's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=MehdiCherkaoui-learning&show_icons=true&theme=radical))
+![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiCherkaoui-learning&show_icons=true&theme=radical))
 
 ## 🌐 Connect with me:
 - Discord: Mestry
