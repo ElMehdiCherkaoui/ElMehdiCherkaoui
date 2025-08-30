@@ -1,7 +1,7 @@
 # Hi there, I'm Mehdi 👋
 
-💻 from Morocco, passionate about programming and building my skills in C.  
-🌱 Currently learning algorithms, data structures, and system programming.  
+💻 from Morocco, passionate about programming and building my skills.  
+🌱 Currently learning C.  
 🎯 My goal is to become a strong software developer while sharing knowledge with others.  
 
 ❤️ Programming | 🖤 Watching | 💙 Sharing Peace Among Discord Servers  
@@ -24,6 +24,17 @@
 
 ---
 
+## ✨ Fun Facts About Me
+- 🎮 I like exploring games.  
+- 📚 I enjoy teaching others what I’ve learned.  
+- 🌍 I believe in sharing peace and positivity online.  
+
+---
+
 ## 🌐 Connect with me:
-- Discord: Mestry
-- Email: cherkaouim451@gmail.com
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MehdiCherk451)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-cherkaoui-426463341/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherkaouim451@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MehdiCherkaoui-learning)
+
